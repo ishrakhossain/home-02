@@ -1,0 +1,88 @@
+.navb{
+    background-color: rgb(45, 172, 6);
+    width: 150px;
+    padding: 10px 10px;
+    border-radius: 30px;
+    border: honeydew;
+}
+
+
+
+.bannerbtn{
+    background-color: rgb(45, 172, 6);
+    width: 150px;
+    padding: 10px 10px;
+    border-radius: 30px;
+    border: honeydew;
+    color: white;
+}
+.headerI{
+    margin-top: 60px;
+}
+.camp-btn{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(0, 255, 255)
+}
+.image{
+    padding-top: 80px;
+    padding-left: 75px;
+}
+.card-txt{
+    padding-left: 45px;
+    padding-top: 20px;
+}
+.mid-bg{
+    background-image: url("images/pinkbg.png");
+    height: 300px;
+}
+.footer{
+    background-image: url("images/footerbg.png");
+    color: white;
+    margin-top: 50px;
+    width: 1930px;
+    margin-left: 5px;
+}
+.news{
+    background-color: rgb(152, 251, 251);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.cookie-container{
+    height: 250px;
+    width: 400px;
+    position: fixed;
+    bottom: -100%;
+    left:50%;
+    background: white !important;
+    color: white;
+    padding: 0 30px;
+    box-shadow: 0 -2px 16px rgba(47, 54, 64, .50);
+    transition: 400ms;
+}
+
+
+.cookie-container.active{
+    bottom: 50%;
+}
+.cookie-btn{
+    background: rgb(0, 255, 242);
+    border: 0;
+    color: white;
+    padding: 12px 48px;
+    font-size: 18px;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.cookie-btn-not{
+    background: rgba(255, 72, 0, 0.795);
+    border: 0;
+    color: white;
+    padding: 12px 48px;
+    font-size: 18px;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
